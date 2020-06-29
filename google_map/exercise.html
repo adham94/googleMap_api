@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+       #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 45%;  /* The width is the width of the web page */
+        float: left;
+       }
+      #pano {
+        height: 400px;  /* The height is 400 pixels */
+        width: 45%;  /* The width is the width of the web page */
+        float: left;
+       }
+       input{
+           font-size: 12px;
+       }
+
+    </style>
+  </head>
+  <body>
+    <h3>My TOKIO MARINE Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+    <div id="pano"></div>
+
+    <br/>
+
+    <form>
+        <input id="autocomplete" placeholder="Enter a city" type="text" size="80"/>
+        <input type="button" value="Geocode" onclick=geocodeAddress(this.form.address.value)>
+    </form>
+
+    <script>
+    // Initialize and add the map
+    function initMap() {
+        // The location of Uluru
+        var uluru = {lat: 3.1516573, lng: 101.7095427}
+        // The map, centered at Uluru
+        panorama = new google.maps.StreetViewPanorama(document.getElementById('pano'),{position: uluru})
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 8, 
+            center: uluru,
+            //streetView: panorama,
+            streetViewControl: true,
+            streetViewControlOptions: {
+                position: google.maps.ControlPosition.RIGHT_TOP
+            }
+        });
+        // The marker, positioned at Uluru
+
+        streetview = new google.maps.StreetViewService();
+
+        var feature = {
+            type: "Feature",
+            geometry: { type: "Point", coordinates: [101.7095427,3.1516573] },
+            Properties:{ name: "test" }
+        };
+        map.data.addGeoJson(feature)
+
+        //map.data.loadGeoJson('tmpoint.json');
+        
+        directionsService = new google.maps.DirectionsService();
+        directionsRenderer = new google.maps.DirectionsRenderer();
+
+        directionsRenderer.setMap(map);
+    
+        map.data.addListener('click', function(event) {
+            streetview.getPanorama({location: event.latLng, radius: 50}, processSVData);
+            calRoute(event.latLng);
+        });
+
+
+//autocomplete
+        autocomplete = new google.maps.places.Autocomplete(
+            document.getElementById('autocomplete'), {
+            types: ['(cities)'],
+            componentRestrictions: {'country': 'my'}
+        });
+        places = new google.maps.places.PlacesService(map);
+
+        autocomplete.addListener('place_changed', (e) => {
+            var place = autocomplete.getPlace();
+            if (place.geometry) {
+                map.panTo(place.geometry.location);
+                map.setZoom(15);
+            } else {
+                document.getElementById('autocomplete').placeholder = 'Enter a city';
+            }
+        });
+
+        geocoder = new google.maps.Geocoder;
+        
+    }
+
+    function processSVData(data, status) {
+        if (status === 'OK') {
+
+            panorama.setPano(data.location.pano);
+            panorama.setPov({
+                heading: 270,
+                pitch: 0
+            });
+
+            panorama.setVisible(true);
+        } else {
+            console.error('Street View data not found for this location.');
+        }
+    }
+
+    function calRoute(start,end){
+        if(!end){
+            end = "Menara Tokiklcco Marine Life,189, Jalan Tun Razak 50400 Kuala Lumpur";
+        }
+        var request = {
+            origin: start,
+            destination: end,
+            travelMode: 'DRIVING'
+        };
+
+        directionsService.route(request, function(result, status) {
+            if (status == 'OK') {
+                directionsRenderer.setDirections(result);
+            }
+        });
+    }
+
+    function geocodeAddress(address) {
+        
+        geocoder.geocode({'address': address}, function(results, status) {
+          if (status === 'OK') {
+            map.setCenter(results[0].geometry.location);
+            map.setZoom(15);
+            var marker = new google.maps.Marker({
+              map: map,
+              position: results[0].geometry.location
+            });
+          } else {
+            alert('Geocode was not successful for the following reason: ' + status);
+          }
+        });
+      }
+
+
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDV18ff8fXj7Y1dexyiXOMzwqxrZngy5W8&callback=initMap&libraries=places">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My TOKIO MARINE Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+    <script>
+    // Initialize and add the map
+    function initMap() {
+        // The location of Uluru
+        var uluru = {lat: 3.1516573, lng: 101.7095427}
+        // The map, centered at Uluru
+        var map = new google.maps.Map(
+        document.getElementById('map'), {zoom: 14, center: uluru});
+        // The marker, positioned at Uluru
+        // Define the LatLng coordinates for the polygon's path.
+        var triangleCoords = [
+            {lat: 3.1497290053178033, lng: 101.7039155960083},
+            {lat: 3.146943718151735, lng: 101.723313331604},
+            {lat: 3.1617699301764772, lng: 101.71571731567383},
+            {lat: 3.1497290053178033, lng: 101.7039155960083}
+        ];
+        
+        // Construct the polygon.
+        var bermudaTriangle = new google.maps.Polygon({
+            paths: triangleCoords,
+            strokeColor: '#FF0000',
+            strokeOpacity: 0.8,
+            strokeWeight: 2,
+            fillColor: '#FF0000',
+            fillOpacity: 0.35
+        });
+        bermudaTriangle.setMap(map);
+    }
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu0hVs2HgXXe0ly8wagam8q8Wmz-12bs8&callback=initMap">
+    </script>
+  </body>
+</html>

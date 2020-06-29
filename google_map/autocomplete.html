@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+       input{
+           font-size: 12px;
+       }
+    </style>
+  </head>
+  <body>
+    <h3>My TOKIO MARINE Maps Demo</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+    <form>
+        <input id="autocomplete" placeholder="Enter a city" type="text" size="80"/>
+    </form>
+    <script>
+    // Initialize and add the map
+    function initMap() {
+        // The location of kualalumpur
+        var kualalumpur = {lat: 3.1516573, lng: 101.7095427}
+        // The map, centered at kualalumpur
+        var map = new google.maps.Map(
+          document.getElementById('map'), 
+          {
+            zoom: 14, 
+            center: kualalumpur
+          }
+        );
+        autocomplete = new google.maps.places.Autocomplete(
+            document.getElementById('autocomplete'), {
+            types: ['(cities)'],
+            componentRestrictions: {'country': 'my'}
+        });
+        places = new google.maps.places.PlacesService(map);
+
+        autocomplete.addListener('place_changed', (e) => {
+            var place = autocomplete.getPlace();
+            if (place.geometry) {
+                map.panTo(place.geometry.location);
+                map.setZoom(15);
+            } else {
+                document.getElementById('autocomplete').placeholder = 'Enter a city';
+            }
+        });
+    }
+
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBTcOi6-ldWo374NjPtzeg41F4mGEaHCWA&callback=initMap&libraries=places">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,3057 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Muzium",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan Muzium TM,Jalan Raja Chulan,50200 Kuala Lumpur,",
+                "CUS_EXP_M": "FARINA ZULKIFLI",
+                "CONTACT": "Tel : 03-2026 0116,Hp : 019-337 7736",
+                "POSITION": "CSE",
+                "EMAIL": "farina@tsssb.com",
+                "FAX_NO": "03-2072 9393",
+                "PHONE_NUMB": 320260116,
+                "X": 412632.0833,
+                "Y": 348946.0913,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70813654,
+                    3.1531788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "Sub-outlet",
+                "TMPOINT": "TMpoint UTC KL",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot T3-17,Tingkat 3,,UTC KL @ Pudu Sentral,,Jalan Pudu,55100 Kuala Lumpur",
+                "CUS_EXP_M": "NOR BAYA MUSTAFA",
+                "CONTACT": "Tel : 03-2026 2198,Tel : 013-341 3291",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "norbaya@tsssb.com",
+                "FAX_NO": "03-20262204",
+                "PHONE_NUMB": 320262198,
+                "X": 411789.2622,
+                "Y": 348136.9281,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70057114,
+                    3.1458429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Jalan TAR",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 374, Tingkat Bawah,Wisma CS Holiday,Jalan Tuanku Abdul Rahman,50100 Kuala Lumpur",
+                "CUS_EXP_M": "TUZIRI MOHAMED",
+                "CONTACT": "Tel : 03-2692 7393,Hp : 019-2316821",
+                "POSITION": "CSE",
+                "EMAIL": "tuziri.mohamed@tsssb.com",
+                "FAX_NO": "03-2693 9292",
+                "PHONE_NUMB": 326927393,
+                "X": 411484.7535,
+                "Y": 349997.8569,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.69779176,
+                    3.16266588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Pandan Indah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "L1/O2, Tingkat Bawah,Menara Maxisegar,Jalan Pandan Indah 4/2,Pandan Indah, 55100 Kuala Lumpur",
+                "CUS_EXP_M": "IBRAHIM DOLAH",
+                "CONTACT": "Tel : 03-4280 9696,Hp : 013-396 5619",
+                "POSITION": "CSE",
+                "EMAIL": "ibrahim.dolah@tm.com.my",
+                "FAX_NO": "03-4280 9595",
+                "PHONE_NUMB": 342809696,
+                "X": 417743.5232,
+                "Y": 346309.768,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.75417874,
+                    3.12944472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Menara",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tkt Bawah, Menara TM,Jalan Pantai Bharu,50672 Kuala Lumpur,",
+                "CUS_EXP_M": "MOHD HILALZUDDIN MOHD ROSLI",
+                "CONTACT": "Tel : 03-2241 2000,Hp : 017-634 1571",
+                "POSITION": "CSE",
+                "EMAIL": "hilalzuddin.rosli@tsssb.com",
+                "FAX_NO": "03-22412288",
+                "PHONE_NUMB": 322412000,
+                "X": 407900.977,
+                "Y": 344881.753,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6656596,
+                    3.11632056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KUALA LUMPUR",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Bangsar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No.8 & 10, Tingkat Bawah,Jalan Telawi 5,Bangsar Baru,59100 Kuala Lumpur",
+                "CUS_EXP_M": "AZRAN ABDUL AZIZ",
+                "CONTACT": "Tel : 03-2283 3999,Hp :  013-337 7002",
+                "POSITION": "CSE",
+                "EMAIL": "azran.aziz@tm.com.my",
+                "FAX_NO": "03-2282 9393",
+                "PHONE_NUMB": 322833999,
+                "X": 408483.838,
+                "Y": 346727.736,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6708634,
+                    3.13302744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Setapak",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Ibusawat TM Setapak,44, Persiaran Kuantan,53200 Kuala Lumpur,",
+                "CUS_EXP_M": "NOR LIANA OTHMAN",
+                "CONTACT": "Tel : 03-4023 2342,Hp :  017-2106200 / 011-18312000",
+                "POSITION": "CSE",
+                "EMAIL": "liana.othman@tsssb.com",
+                "FAX_NO": "03-4022 9292",
+                "PHONE_NUMB": 340232342,
+                "X": 412432.704,
+                "Y": 352336.001,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.70627048,
+                    3.18383154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Ampang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "42, Jln Mamanda 7,Ampang Point,68000 Ampang,Selangor",
+                "CUS_EXP_M": "HAZRUL AZRI ZAINUNAKHSAN",
+                "CONTACT": "Tel : 03-4251 1101,Hp : 013-333 4649",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "hazrulazri@tsssb.com",
+                "FAX_NO": "03-4252 8282",
+                "PHONE_NUMB": 342511101,
+                "X": 417374.656,
+                "Y": 349624.7867,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.75079114,
+                    3.15941706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Kepong",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 67, Jalan Metro Perdana Barat 1,Taman Usahawan Kepong,52100 Kepong,Kuala Lumpur",
+                "CUS_EXP_M": "MAIZAWANI ABD MANAB",
+                "CONTACT": "Tel : 03-6250 9191,Hp : 013-254 8886",
+                "POSITION": "CSE",
+                "EMAIL": "maizawani@tm.com.my",
+                "FAX_NO": "03-6250 9292",
+                "PHONE_NUMB": 362509191,
+                "X": 404999.099,
+                "Y": 355768.962,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.63931372,
+                    3.21471558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Rawang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot 21, Jln. Maxwell,48000 Rawang,Selangor,",
+                "CUS_EXP_M": "ARFAIZAH HALIM",
+                "CONTACT": "Tel : 03-6091 6000,Hp : 013-210 9556",
+                "POSITION": "CSE",
+                "EMAIL": "arfaizah@tsssb.com",
+                "FAX_NO": "03-6091 8000",
+                "PHONE_NUMB": 360916000,
+                "X": 398005.113,
+                "Y": 367471.56,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.57611878,
+                    3.32039034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Kubu Bahru",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jalan Dato Balai,44000 Kuala Kubu Bahru,Selangor",
+                "CUS_EXP_M": "ZAHARIAH SHAHARUN",
+                "CONTACT": "Tel : 03-6064 1440,Hp : 013-340 0352",
+                "POSITION": "CSO",
+                "EMAIL": "zahariah.shaharun@tm.com.my",
+                "FAX_NO": "03-6064 3700",
+                "PHONE_NUMB": 360641440,
+                "X": 407205.383,
+                "Y": 394421.571,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.65830462,
+                    3.56433192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Bukit Raja",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Meru,,41050 Kelang,Selangor,",
+                "CUS_EXP_M": "HISYSAM ALI",
+                "CONTACT": "Tel : 03-3342 8000,Hp: 013-892 6692",
+                "POSITION": "CSE",
+                "EMAIL": "hisysam.ali@tsssb.com",
+                "FAX_NO": "03-3342 9292",
+                "PHONE_NUMB": 333428000,
+                "X": 384026.0101,
+                "Y": 339629.6736,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.45100132,
+                    3.0682809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Shah Alam",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM Shah Alam,Persiaran Damai, Seksyen 11,40000 Shah Alam,Selangor",
+                "CUS_EXP_M": "SITI HASMAH MUKDAN",
+                "CONTACT": "Tel : 03-5513 4553,Hp : 013-669 0354",
+                "POSITION": "CSE",
+                "EMAIL": "hasmahmukdan@tm.com.my",
+                "FAX_NO": "03-5510 5500",
+                "PHONE_NUMB": 355134553,
+                "X": 392358.4102,
+                "Y": 340192.3645,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.52594252,
+                    3.0735648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Banting",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 1-1-1A, Jalan Suasa 1,42700 Banting,Selangor,",
+                "CUS_EXP_M": "IRWAN MASRI IBRAHIM",
+                "CONTACT": "Tel : 03-3187 2422,Hp : 019-333 2321",
+                "POSITION": "CSO",
+                "EMAIL": "irwan@tsssb.com",
+                "FAX_NO": "03-3187 9791",
+                "PHONE_NUMB": 331872422,
+                "X": 389753.717,
+                "Y": 311146.3565,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.5031754,
+                    2.8108476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Selangor",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM, Jalan Klinik ,45000 Kuala Selangor,Selangor,",
+                "CUS_EXP_M": "SALIJAH MASWAN",
+                "CONTACT": "Tel : 03-3289 3993,Hp : 013-394 8270",
+                "POSITION": "CSO",
+                "EMAIL": "salijah@tm.com.my",
+                "FAX_NO": "03-3289 3300",
+                "PHONE_NUMB": 332893993,
+                "X": 361890.629,
+                "Y": 369342.481,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.25111204,
+                    3.33641034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sabak Bernam",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "27, Jalan Raja Chulan,45200 Sabak Bernam,Selangor,",
+                "CUS_EXP_M": "ABDUL LATIFF BURHAN",
+                "CONTACT": "Tel : 03-3216 5861,Hp : 013-363 3683",
+                "POSITION": "CSO",
+                "EMAIL": "abdlatiff@tm.com.my",
+                "FAX_NO": "03-3216 2058",
+                "PHONE_NUMB": 332165861,
+                "X": 332305.612,
+                "Y": 417288.415,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9834758,
+                    3.76912638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SELANGOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Port Klang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 57 & 59, Jalan Cungah,,42000 Port Klang,Selangor,",
+                "CUS_EXP_M": "MASTURAH BINTI MAHMMAD",
+                "CONTACT": "Tel : 03-3166 7777,Hp : 013-626 4421",
+                "POSITION": "CSE",
+                "EMAIL": "masturah.mahmmad@tsssb.com",
+                "FAX_NO": "03-3166 2929",
+                "PHONE_NUMB": 331667777,
+                "X": 378123.3534,
+                "Y": 332312.2798,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.39808186,
+                    3.0019698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Damansara Utama",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 91-93, Jln. SS 21/1A,,Damansara Utama ,47400 Petaling Jaya,Selangor",
+                "CUS_EXP_M": "MOHD KHAIRUL AKMAL MD SIDEK",
+                "CONTACT": "Tel : 03-7727 6122 ,Hp : 013-366 0600",
+                "POSITION": "CSE",
+                "EMAIL": "khairulakmal@tm.com.my",
+                "FAX_NO": "03-7727 6668",
+                "PHONE_NUMB": 377276122,
+                "X": 403240.585,
+                "Y": 349259.787,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62363626,
+                    3.15581076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Petaling Jaya",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 22 & 24 Jalan Yong Shook Lin,46050 Petaling Jaya,Selangor,",
+                "CUS_EXP_M": "AZIZAH BT SAID",
+                "CONTACT": "Tel : 03-7955 5111,Hp : 017-396 0392",
+                "POSITION": "CSE",
+                "EMAIL": "azizah.said@tsssb.com",
+                "FAX_NO": "03-7954 0326",
+                "PHONE_NUMB": 379555111,
+                "X": 405628.0489,
+                "Y": 342896.4864,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6452548,
+                    3.09831732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Kajang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 10 & 12, Jalan Metro Avenue 2,,43000, Kajang Selangor.,,",
+                "CUS_EXP_M": "NORAZLIN ROSLIN",
+                "CONTACT": "Tel : 03-8736 7797,Hp : 013-6465876",
+                "POSITION": "CSE",
+                "EMAIL": "norazlinroslin@tsssb.com",
+                "FAX_NO": "03-8736 8366",
+                "PHONE_NUMB": 387367797,
+                "X": 421718.4441,
+                "Y": 331570.8588,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.79023886,
+                    2.99623302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Taman Desa",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tkt Bawah, Wisma TM Taman Desa,Jalan Desa Utama,58100 Kuala Lumpur,",
+                "CUS_EXP_M": "LENNY ANAK PETER MOONEY",
+                "CONTACT": "Tel : 03-7981 9191,Hp : 013-401 7505",
+                "POSITION": "CSE",
+                "EMAIL": "leeny.mooney@tsssb.com",
+                "FAX_NO": "03-7981 0186",
+                "PHONE_NUMB": 379819191,
+                "X": 409761.4404,
+                "Y": 343420.7381,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.68242858,
+                    3.10314816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kelana Jaya",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Unit 109B Ground Floor,Kelana Park View Tower,No. 1 Jalan SS 6/2,47301 Kelana Jaya, Selangor",
+                "CUS_EXP_M": "SYARIZAT ISMAIL",
+                "CONTACT": "Tel : 03-7880 6969,Hp : 017-268 0775",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "syarizat.ismail@tsssb.com",
+                "FAX_NO": "03-7803 3400",
+                "PHONE_NUMB": 378806969,
+                "X": 400510.9019,
+                "Y": 343218.8012,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59921296,
+                    3.10111884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PETALING JAYA",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sunway Damansara",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tkt Bawah & Tingkat 1, Unit C-08,,Jalan PJU 5/17, Dataran Sunway,,47810 Kota Damansara,Selangor",
+                "CUS_EXP_M": "MARINI APENG",
+                "CONTACT": "Tel :03-6141 7809,Hp : 013-347 3006",
+                "POSITION": "CSE",
+                "EMAIL": "marini.apeng@tm.com.my",
+                "FAX_NO": "03-61417812",
+                "PHONE_NUMB": 361417809,
+                "X": 399636.214,
+                "Y": 348902.947,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.59121682,
+                    3.1525029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MSC",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Cyberjaya",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Ground Floor, TM IT Complex,3300 Lingkaran Usahawan 1 Timur,60000 Cyberjaya,Selangor",
+                "CUS_EXP_M": "MOHD HAIZI MOHD KHAIR",
+                "CONTACT": "Tel : 03-8318 1008,Hp : 013-632 2221",
+                "POSITION": "CSE",
+                "EMAIL": "haizi@tm.com.my",
+                "FAX_NO": "03-8319 6499",
+                "PHONE_NUMB": 383181008,
+                "X": 406844.934,
+                "Y": 324335.317,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.6566011,
+                    2.93048964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MSC",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Serdang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 36, Jalan Dagang SB 4/2,Taman Sungai Besi Indah,43300 Seri Kembangan,Selangor",
+                "CUS_EXP_M": "NURUL AKMAR MOHD IDRIS",
+                "CONTACT": "Tel : 03-8945 5566,Hp: 019-3135150",
+                "POSITION": "",
+                "EMAIL": "nurulakmar@tsssb.com",
+                "FAX_NO": "03-8945 5588",
+                "PHONE_NUMB": 389455566,
+                "X": 413425.503,
+                "Y": 334830.6357,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.71557234,
+                    3.02554188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MSC",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Taipan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No.27 & 29, Jalan USJ 10/1A,47620 Subang Jaya,Selangor,",
+                "CUS_EXP_M": "NURAZIAN SAMSI",
+                "CONTACT": "Tel : 03-8023 4488,Hp : 011-12192669",
+                "POSITION": "CSE",
+                "EMAIL": "nurazian@tsssb.com",
+                "FAX_NO": "03-8023 4478",
+                "PHONE_NUMB": 380234488,
+                "X": 398945.4028,
+                "Y": 337522.1278,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.58525702,
+                    3.04956738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MSC",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Puchong",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 12 & 13, Jalan Kenari 5,,Bandar Puchong Jaya,,47100 Puchong,,Selangor",
+                "CUS_EXP_M": "NOOR AZIZAH BT SELAMAT",
+                "CONTACT": "Tel : 03-8071 1885,Hp : 013-3936510",
+                "POSITION": "CSE",
+                "EMAIL": "azizah.selamat@tsssb.com",
+                "FAX_NO": "03-80711906",
+                "PHONE_NUMB": 380711885,
+                "X": 402976.981,
+                "Y": 337292.054,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.62152846,
+                    3.04757622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "NEGERI SEMBILAN",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Seremban",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 176 & 177, Tingkat Bawah,Jalan Dato' Bandar Tunggal,70000 Seremban,",
+                "CUS_EXP_M": "MOHD SALLEH AB HAMID",
+                "CONTACT": "Tel : 06-765 1083     ,Hp : 019-2424696",
+                "POSITION": "CSE",
+                "EMAIL": "mohd.salleh@tm.com.my",
+                "FAX_NO": "06-767 2200",
+                "PHONE_NUMB": 607651083,
+                "X": 438025.726,
+                "Y": 302121.029,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.93747634,
+                    2.73021588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "NEGERI SEMBILAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Port Dickson",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 25, Jalan Mahajaya, ,PD Center Point,71000 Port Dickson,Negeri Sembilan",
+                "CUS_EXP_M": "WAN YAHAYA WAN YAACOB",
+                "CONTACT": "Tel : 06-647 2191,Hp :  013-620 6093",
+                "POSITION": "CSO",
+                "EMAIL": "yahaya.yaacob@tm.com.my",
+                "FAX_NO": "06-647 4200",
+                "PHONE_NUMB": 606472191,
+                "X": 422523.0565,
+                "Y": 279272.4349,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.79849654,
+                    2.523303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "NEGERI SEMBILAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Pilah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jalan Bahau,72000 Kuala Pilah,Negeri Sembilan,",
+                "CUS_EXP_M": "JAMALIAH JAMALUDIN",
+                "CONTACT": "Tel : 06-481 4000,Hp : 013-392 5566",
+                "POSITION": "CSO",
+                "EMAIL": "jamaliahj@tm.com.my",
+                "FAX_NO": "06-481 2000",
+                "PHONE_NUMB": 604814000,
+                "X": 472580.9,
+                "Y": 303564.988,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24823086,
+                    2.74385736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "NEGERI SEMBILAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Tampin",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jalan Besar,73000 Tampin ,Negeri Sembilan,",
+                "CUS_EXP_M": "SITI NUR AQMAL  SHAARI",
+                "CONTACT": "Tel : 06-441 3191 / 06-441 5416,Hp : 019-300 7030",
+                "POSITION": "CSO",
+                "EMAIL": "nuraqmal@tsssb.com",
+                "FAX_NO": "06-441 4191",
+                "PHONE_NUMB": 604413191,
+                "X": 470637.121,
+                "Y": 273193.479,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.23121312,
+                    2.46914892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MELAKA",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Melaka",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "527 & 529 A, Plaza Melaka,Jalan Gajah Berang,75200 Melaka,",
+                "CUS_EXP_M": "NORZAHTULADHA MOHD NOR",
+                "CONTACT": "Tel : 06-292 5810,Hp : 013-630 2302",
+                "POSITION": "ACTING CSE",
+                "EMAIL": "norzahtuladha@tm.com.my",
+                "FAX_NO": "06-281 1000",
+                "PHONE_NUMB": 602925810,
+                "X": 471904.0944,
+                "Y": 244201.8538,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2430303,
+                    2.20697946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MELAKA",
+                "CATEGORY": "Sub-outlet",
+                "TMPOINT": "TMpoint UTC Melaka",
+                "Sell": "",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Aras 3 Bangunan UTC,Wisma DMDI, Jalan Hang Tuah,75300 Melaka,",
+                "CUS_EXP_M": "MUHAMMAD SHAFRI ABDUL HALIL",
+                "CONTACT": "Tel : 06-292 5820,Hp : 013-652 2899",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "mshafrihalil@tm.com.my",
+                "FAX_NO": "06-292 5820",
+                "PHONE_NUMB": 602925820,
+                "X": 472238.636,
+                "Y": 243570.89,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.24604692,
+                    2.20127832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MELAKA",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Alor Gajah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Batu 14 1/2 , Jalan Melaka Kendong ,78000 Alor Gajah,,Melaka,",
+                "CUS_EXP_M": "HASNAH MOHAMAD",
+                "CONTACT": "Tel : 06-556 2292,Hp : 013-613 1566",
+                "POSITION": "CSO",
+                "EMAIL": "mhasnah@tm.com.my",
+                "FAX_NO": "06-556 5724",
+                "PHONE_NUMB": 605562292,
+                "X": 468062.6541,
+                "Y": 263126.908,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.20821668,
+                    2.37807108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "MELAKA",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Menara Pertam",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Ground Floor,Menara Pertam, Jalan Batu Berendam BBP 2,Taman Batu Berendam Putra,75350 Melaka",
+                "CUS_EXP_M": "ASNOR EZWIN MAT SAAD",
+                "CONTACT": "Tel : 06-252 2581 / 06-252 2582,Hp : 013-680 0800",
+                "POSITION": "CSO",
+                "EMAIL": "asnor@tsssb.com",
+                "FAX_NO": "06-231 7677",
+                "PHONE_NUMB": 602522581,
+                "X": 473531.53367669,
+                "Y": 248026.25775148,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2576058,
+                    2.24158878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Johor Bahru",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Abdullah Ibrahim,80672 Johor Bahru,,",
+                "CUS_EXP_M": "NOOR AZAH BTE  MOHD ARIFFIN",
+                "CONTACT": "Tel : 07-228 2788,Hp : 013 – 344 6908",
+                "POSITION": "CSE",
+                "EMAIL": "noorazah.ariffin@tm.com.my",
+                "FAX_NO": "07-222 7212",
+                "PHONE_NUMB": 702282788,
+                "X": 640610.3841,
+                "Y": 161394.7411,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.76015598,
+                    1.45950552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Skudai",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 17 & 19, Jalan Laksamana 1,,Taman Ungku Tun Aminah,,81300 Skudai,Johor",
+                "CUS_EXP_M": "SHAHUDA BTE OTHMAN",
+                "CONTACT": "Tel : 07-558 1666,Hp : 013-732 2029",
+                "POSITION": "CSE",
+                "EMAIL": "shahuda@tsssb.com",
+                "FAX_NO": "07-557 1999",
+                "PHONE_NUMB": 705581666,
+                "X": 630360.803,
+                "Y": 168827.741,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.66800768,
+                    1.52669412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pontian",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tkt. 1 Ibusawat TM,Jln Alsagoff,82000 Pontian,Johor",
+                "CUS_EXP_M": "MOHAMAD HAIRI BIN HASSAN",
+                "CONTACT": "Tel : 07-687 6032,Hp : 013-330 0550",
+                "POSITION": "CSO",
+                "EMAIL": "hairi.hassan@tm.com.my",
+                "FAX_NO": "07-687 3800",
+                "PHONE_NUMB": 706876032,
+                "X": 599212.85,
+                "Y": 164813.4421,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.38808968,
+                    1.49022864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Kluang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 1 & 2,,Jalan Dato Teoh Siew Khor,86000 Kluang,",
+                "CUS_EXP_M": "MUHAMMAD AHMAD MUSHADDAD BIN AMIR",
+                "CONTACT": "Tel : 07-775 5613,Hp : 019-620 6260",
+                "POSITION": "CSE",
+                "EMAIL": "mushaddad@tm.com.my",
+                "FAX_NO": "07-7762277",
+                "PHONE_NUMB": 707755613,
+                "X": 591645.707,
+                "Y": 224593.773,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.31970372,
+                    2.03087988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Segamat",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No.22 Jalan Sultan,85000 Segamat,Johor,",
+                "CUS_EXP_M": "BAHARUM BIN MAT SAMAN",
+                "CONTACT": "Tel : 07-9333 232,Hp :  013-735 1521",
+                "POSITION": "CSO",
+                "EMAIL": "baharum@tsssb.com",
+                "FAX_NO": "07-932 5717",
+                "PHONE_NUMB": 709333232,
+                "X": 535713.7734,
+                "Y": 277210.4306,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.81635262,
+                    2.506311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Batu Pahat",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "39 Jalan Rahmat,83000 Batu Pahat,Johor,",
+                "CUS_EXP_M": "NOOR AIRIN NADZRA BTE ZULKEFLI",
+                "CONTACT": "Tel : 07-435 5061,Hp : 013-7001575",
+                "POSITION": "CSE",
+                "EMAIL": "noorairin@tm.com.my",
+                "FAX_NO": "07-431 4888",
+                "PHONE_NUMB": 704355061,
+                "X": 548521.419,
+                "Y": 204435.675,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.93220224,
+                    1.84822344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Muar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 5-5 & 5-6, Tkt Bawah,Jalan Ibrahim,84000 Muar,Johor",
+                "CUS_EXP_M": "IZWANI BINTI WAHID",
+                "CONTACT": "Tel : 06-951 9191,Hp : 013-7790807",
+                "POSITION": "CSE",
+                "EMAIL": "izwani.wahid@tm.com.my",
+                "FAX_NO": "06-951 5916",
+                "PHONE_NUMB": 609519191,
+                "X": 507740.278,
+                "Y": 226019.413,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.56541012,
+                    2.04301134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kota Tinggi",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 2&4, Jalan Indah,Taman Medan Indah,81900 Kota Tinggi,Johor",
+                "CUS_EXP_M": "SURAYA BINTI SULAIMAN",
+                "CONTACT": "Tel : 07-883 1191,Hp : 019-7932097",
+                "POSITION": "CSE",
+                "EMAIL": "suraya.sulaiman@tm.com.my",
+                "FAX_NO": "07-883 4999",
+                "PHONE_NUMB": 708831191,
+                "X": 656381.458,
+                "Y": 191645.701,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.90179708,
+                    1.7331831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kulai",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot 435, Jln Kenanga 29/11,,Taman Indah Putra,,81100 Kulai,Johor",
+                "CUS_EXP_M": "JORIAH BTE KASIM",
+                "CONTACT": "Tel : 07-663 3666,Hp : 013-778 8715",
+                "POSITION": "CSO",
+                "EMAIL": "joriah@tm.com.my",
+                "FAX_NO": "07-663 5800",
+                "PHONE_NUMB": 706633666,
+                "X": 624754.063,
+                "Y": 181829.347,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.61755638,
+                    1.64426688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Pelangi",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Wisma TM Pelangi,Jalan Sutera  3, Taman Sentosa,80150 Johor Bharu,Johor",
+                "CUS_EXP_M": "MUHAMMAD AFIQ BIN MUHAMMAD NASRULLAH",
+                "CONTACT": "Tel : 07-338 1166,Hp : 019-740 4152",
+                "POSITION": "CSE",
+                "EMAIL": "afiq.nasrullah@tsssb.com",
+                "FAX_NO": "07-331 9999",
+                "PHONE_NUMB": 703381166,
+                "X": 641772.677,
+                "Y": 164856.066,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.7705886,
+                    1.4908176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Mersing",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot 384, Jalan Ismail,86800 Mersing , Johor,,",
+                "CUS_EXP_M": "WAN NORLIANA WAN BUSU",
+                "CONTACT": "Tel : 07-799 5291,Hp : 013-701 6060",
+                "POSITION": "CSO",
+                "EMAIL": "wnorliana@tsssb.com",
+                "FAX_NO": "07-799 5000",
+                "PHONE_NUMB": 707995291,
+                "X": 649557.984,
+                "Y": 268757.697,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.84018794,
+                    2.43063486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Yong Peng",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 18, Tingkat Bawah,Jalan Bayan, Taman Semberong,83700 Yong Peng, Johor,",
+                "CUS_EXP_M": "MOHD NIZAM BIN IBRAHIM",
+                "CONTACT": "Tel : 07-467 1466,Hp : 019-799 8680",
+                "POSITION": "CSE",
+                "EMAIL": "mohdnizam.ibrahim@tsssb.com",
+                "FAX_NO": "07-467 3888",
+                "PHONE_NUMB": 704671466,
+                "X": 563726.766,
+                "Y": 222324.529,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.06873278,
+                    2.01014802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "JOHOR",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pasir Gudang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 23 A, Tingkat Bawah,Jalan Bandar Pusat Perdagangan,81700 Pasir Gudang,Johor",
+                "CUS_EXP_M": "RAHIMAH BTE SAHRIN",
+                "CONTACT": "Tel : 07-228 1149,Hp : 013-770 7771",
+                "POSITION": "CSO",
+                "EMAIL": "rahimah.sahrin@tm.com.my",
+                "FAX_NO": "07-251 4999",
+                "PHONE_NUMB": 702281149,
+                "X": 642432.8861,
+                "Y": 162201.2791,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.77653238,
+                    1.46680758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Kangar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jalan Bukit Lagi,Pekan Kangar,01000 Kangar,Perlis",
+                "CUS_EXP_M": "MOHAMAD RAZALI HUSSIN",
+                "CONTACT": "Tel : 04-979 2100,Hp : 019-550 4001",
+                "POSITION": "CSE",
+                "EMAIL": "mohamad.razali@tm.com.my",
+                "FAX_NO": "04-976 4688",
+                "PHONE_NUMB": 409792100,
+                "X": 245846.0805,
+                "Y": 712488.1238,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.1921238,
+                    6.435432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Alor Setar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Kompleks Kristal,Jalan Kolam Air,05672 Alor Setar,Kedah",
+                "CUS_EXP_M": "SUZANA ISMAIL",
+                "CONTACT": "Tel : 04-731 7171,Hp : 019-411 5780",
+                "POSITION": "CSE",
+                "EMAIL": "isuzana@tm.com.my",
+                "FAX_NO": "04-734 0349",
+                "PHONE_NUMB": 407317171,
+                "X": 265435.465,
+                "Y": 677428.848,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.37076048,
+                    6.11924382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Jitra",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "19A , Jalan PJ 1,Pekan Jitra 2,06000 Jitra, Kedah,",
+                "CUS_EXP_M": "MOHD NAZIH ABDUL RAHMAN",
+                "CONTACT": "Tel : 04-918 2043,Hp : 019-428 7227",
+                "POSITION": "CSO",
+                "EMAIL": "nazih@tsssb.com",
+                "FAX_NO": "04-917 1210",
+                "PHONE_NUMB": 409182043,
+                "X": 270830.734,
+                "Y": 692982.974,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.41884604,
+                    6.26014746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Langkawi",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Pandak Mayah 6,07000 Pekan Kuah,Langkawi, Kedah,",
+                "CUS_EXP_M": "MOHAMAD HIZAM HUSSIN",
+                "CONTACT": "Tel : 04-966 5678,Hp : 013-420 7131",
+                "POSITION": "CSO",
+                "EMAIL": "hizam.hussin@tm.com.my",
+                "FAX_NO": "04-966 7292",
+                "PHONE_NUMB": 409665678,
+                "X": 207837.559,
+                "Y": 700194.203,
+                "TERM_TYPE": "CABINET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.84914352,
+                    6.32235384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Sungai Petani",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM, Jln. Petani,,08000 Sungai Petani,Kedah,",
+                "CUS_EXP_M": "HASNIZAH BT HASHIM",
+                "CONTACT": "Tel : 04-421 6363,Hp : 013-488 9192",
+                "POSITION": "CSE",
+                "EMAIL": "hasnizah@tm.com.my",
+                "FAX_NO": "04-421 9912",
+                "PHONE_NUMB": 404216363,
+                "X": 278064.3359,
+                "Y": 624518.5136,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4870592,
+                    5.64126012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KEDAH/PERLIS",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kulim",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 4 & 5, Jalan Tunku Asaad, ,09000 Kulim,Kedah,",
+                "CUS_EXP_M": "FAZLIANA OMER",
+                "CONTACT": "Tel : 04 - 496 1011 ,Hp : 013-432 1759",
+                "POSITION": "CSO",
+                "EMAIL": "fazliana@tm.com.my",
+                "FAX_NO": "04-490 1667",
+                "PHONE_NUMB": 404961011,
+                "X": 285056.295,
+                "Y": 594128.152,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5513966,
+                    5.36669604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PULAU PINANG",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Bayan Baru",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 68, Jln. Mahsuri,11950 Bayan Baru,Pulau Pinang,",
+                "CUS_EXP_M": "SYED OMAR ABD MUTHALIB",
+                "CONTACT": "Tel: 04- 6464 000,Hp : 013-485 2337",
+                "POSITION": "CSE",
+                "EMAIL": "omar.muthalib@tm.com.my",
+                "FAX_NO": "04-642 2929",
+                "PHONE_NUMB": 406464000,
+                "X": 255603.764,
+                "Y": 589755.723,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.28583216,
+                    5.32591632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PULAU PINANG",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Jln Burmah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln Burmah,10050 Georgetown,Pulau Pinang,",
+                "CUS_EXP_M": "NOOR AIZAN MOHD SHOHOR",
+                "CONTACT": "Tel : 04-226 7533,Hp : 013-400 0206",
+                "POSITION": "CSE",
+                "EMAIL": "nooraizan@tm.com.my",
+                "FAX_NO": "04-228 2929",
+                "PHONE_NUMB": 402267533,
+                "X": 260319.3318341,
+                "Y": 599959.88110239,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.32793542,
+                    5.41840446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PULAU PINANG",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Butterworth",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Wisma TM Butterworth,Ground Floor, Jalan Bagan Luar,12000 Butterworth,Pulau Pinang",
+                "CUS_EXP_M": "NAZLIZA MOHD NASIR",
+                "CONTACT": "Tel: 04-332 8526,Hp : 019- 427 4229",
+                "POSITION": "CSE",
+                "EMAIL": "nazliza@tm.com.my",
+                "FAX_NO": "04-332 3399",
+                "PHONE_NUMB": 403328526,
+                "X": 265128.12149772,
+                "Y": 599090.27549763,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3713669,
+                    5.4107478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PULAU PINANG",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Bukit Mertajam",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot G-33, G-34, G-35,Jalan Perda Selatan,Bandar Perda,14000 Bukit Mertajam",
+                "CUS_EXP_M": "AZUWAN BIN ABU BAKAR",
+                "CONTACT": "Tel: 04-537 6044 ,Hp : 013-2161701",
+                "POSITION": "CSE",
+                "EMAIL": "azuwan@tsssb.com",
+                "FAX_NO": "04-539 9339",
+                "PHONE_NUMB": 405376044,
+                "X": 272383.04,
+                "Y": 594239.594,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.43703684,
+                    5.36718654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PULAU PINANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sungai Bakap",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "1282 , Jalan Besar,14200 Sungai Bakap,Pulau Pinang,",
+                "CUS_EXP_M": "AMRIL-FAHMY BIN ABU BAKAR",
+                "CONTACT": "Tel : 04 - 582 7007,Hp : 013-423 1131",
+                "POSITION": "CSE",
+                "EMAIL": "amril@tm.com.my",
+                "FAX_NO": "04-582 2014",
+                "PHONE_NUMB": 405827007,
+                "X": 278874.4661,
+                "Y": 578516.464,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.49624964,
+                    5.22525816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Ipoh Wisma",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Wisma TM ,Jln. Sultan Idris Shah,30672  Ipoh,Perak",
+                "CUS_EXP_M": "MOHD NAIM MUHAMAD TAJUDIN",
+                "CONTACT": "Tel : 05-249 9140,Hp : 019-423 9333",
+                "POSITION": "CSE",
+                "EMAIL": "naimtajudin@tm.com.my",
+                "FAX_NO": "05-254 8111",
+                "PHONE_NUMB": 502499140,
+                "X": 343319.223,
+                "Y": 508934.898,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.07983088,
+                    4.59827982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "Sub-outlet",
+                "TMPOINT": "TMpoint UTC Perak",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "TMpoint @ UTC Perak Lot No LB-7,Urban Transformation Center (UTC) Perak,(known as Pasar Besar Ipoh),Off Jalan Dato' Onn Jaafar",
+                "CUS_EXP_M": "ZOBAIDAH BT ABDUL RAHMAN",
+                "CONTACT": "Tel : 05-241 3571 / 3569,Hp : 013-513 1959",
+                "POSITION": "CSO",
+                "EMAIL": "zobaidah@tsssb.com",
+                "FAX_NO": "05-241 3558",
+                "PHONE_NUMB": 502413571,
+                "X": 343558.84,
+                "Y": 508700.811,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.08199772,
+                    4.59617022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Batu Gajah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jalan Dewangsa,31000 Batu Gajah , Perak,",
+                "CUS_EXP_M": "RIZAL ZAIDI MOHD PUADI",
+                "CONTACT": "Tel : 05-363 3030,Hp : 013-456 0044",
+                "POSITION": "CSO",
+                "EMAIL": "rizalzaidi@tsssb.com",
+                "FAX_NO": "05-366 2988",
+                "PHONE_NUMB": 503633030,
+                "X": 338958.123,
+                "Y": 494990.973,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.04096546,
+                    4.47203394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint  Ipoh Tasek",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Sultan Azlan Shah Utara ,31400 Ipoh,Perak,",
+                "CUS_EXP_M": "PUVANESWARY A/P ARUMAINATHAN",
+                "CONTACT": "Tel : 05-249 9676,Hp : 019-552 1983",
+                "POSITION": "CSE",
+                "EMAIL": "puvaneswary@tsssb.com",
+                "FAX_NO": "05-547 2257",
+                "PHONE_NUMB": 502499676,
+                "X": 347118.795,
+                "Y": 510959.188,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.11401396,
+                    4.6167057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kampar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jln. Baru,31900 Kampar,Perak",
+                "CUS_EXP_M": "MOHD ARJUNAIDI ARIFIN",
+                "CONTACT": "Tel : 05-466 9191,Hp : 013-470 3770",
+                "POSITION": "CSO",
+                "EMAIL": "junaidi.arifin@tsssb.com",
+                "FAX_NO": "05-466 9393",
+                "PHONE_NUMB": 504669191,
+                "X": 351469.124,
+                "Y": 477115.732,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.15423964,
+                    4.31075646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Taiping",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jln. Berek,34672 Taiping,Perak",
+                "CUS_EXP_M": "SYAFIEE IBRAHIM",
+                "CONTACT": "Tel : 05-807 8777,019-424 0424",
+                "POSITION": "CSE",
+                "EMAIL": "syafiee@tm.com.my",
+                "FAX_NO": "05-808 4331",
+                "PHONE_NUMB": 508078777,
+                "X": 305946.34635688,
+                "Y": 537483.0100397,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.74197322,
+                    4.85520372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Teluk Intan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jln. Jawa,36672 Teluk Intan,Perak",
+                "CUS_EXP_M": "NOOR MAZLIY OSMAN",
+                "CONTACT": "Tel : 05-625 9220,019-450 6070",
+                "POSITION": "CSE",
+                "EMAIL": "mazliy@tsssb.com",
+                "FAX_NO": "05-621 8453",
+                "PHONE_NUMB": 506259220,
+                "X": 336906.42,
+                "Y": 445074.901,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.02404222,
+                    4.02054588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Parit Buntar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "36, Persiaran Perwira,,Pusat Bandar,,34200 Parit Buntar,Perak",
+                "CUS_EXP_M": "MOHD ARIS BAHAZIN",
+                "CONTACT": "Tel : 05-716 2191,Hp : 013-524 0900",
+                "POSITION": "CSO",
+                "EMAIL": "arisbahazin@tm.com.my",
+                "FAX_NO": "05-716 9600",
+                "PHONE_NUMB": 507162191,
+                "X": 277859.591,
+                "Y": 566820.549,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4875686,
+                    5.11944318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Kangsar",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jln. Raja Chulan,,33000 Kuala Kangsar,,Perak",
+                "CUS_EXP_M": "RADZIAH BUKHARI",
+                "CONTACT": "Tel : 05-773 2411,Hp : 013-520 3530",
+                "POSITION": "CSO",
+                "EMAIL": "bradziah@tm.com.my",
+                "FAX_NO": "05-776 1522",
+                "PHONE_NUMB": 507732411,
+                "X": 328035.88836799,
+                "Y": 528605.46212823,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9414323,
+                    4.77568674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Gerik",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Wisma Kosek, Jalan Takong Datoh,,33300 Gerik, Perak,,",
+                "CUS_EXP_M": "MOHD AZIZUL MAMAT",
+                "CONTACT": "Tel : 05-791 1191,Hp : 019-986 4355",
+                "POSITION": "CSO",
+                "EMAIL": "azizul.mamat@tsssb.com",
+                "FAX_NO": "05-791 1701",
+                "PHONE_NUMB": 507911191,
+                "X": 349155.74554365,
+                "Y": 600784.78322036,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.12960376,
+                    5.42917512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sungai Siput",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 188, Jln Besar,,31100 Sungai Siput ,Perak,",
+                "CUS_EXP_M": "KOHMALA A/P KANNIAH",
+                "CONTACT": "Tel : 05-598 9191,Hp : 019-480 2482",
+                "POSITION": "CSE",
+                "EMAIL": "kohmala@tsssb.com",
+                "FAX_NO": "05-598 5519",
+                "PHONE_NUMB": 505989191,
+                "X": 342743.11642626,
+                "Y": 533346.53366408,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.07387252,
+                    4.81904352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "Tmpoint Sitiawan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "179 & 180, Tmn. Sitiawan Maju,32000 Sitiawan,Perak,",
+                "CUS_EXP_M": "NUROOL AZREEN BINTI HAZIZI",
+                "CONTACT": "Tel : 05-693 9150,Hp : 013-515 7531",
+                "POSITION": "CSE",
+                "EMAIL": "nuroolazreen@tsssb.com",
+                "FAX_NO": "05-691 6252",
+                "PHONE_NUMB": 506939150,
+                "X": 300030.6671,
+                "Y": 466804.455,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.69121052,
+                    4.21581744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Tapah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM,Jalan Stesyen,35672 Tapah,Perak",
+                "CUS_EXP_M": "NAZIRUDDIN MOHAMED YUSOF",
+                "CONTACT": "Tel : 05-403 2153,Hp : 013-584 5868",
+                "POSITION": "CSO",
+                "EMAIL": "naziruddin@tsssb.com",
+                "FAX_NO": "05-401 3932",
+                "PHONE_NUMB": 504032153,
+                "X": 362912.352,
+                "Y": 464643.1,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.25768888,
+                    4.19828778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PERAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Tanjung Malim",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 27, Jalan Cahaya,Taman Anggerik Desa,35900 Tanjung Malim, Perak.,",
+                "CUS_EXP_M": "MOHAMMAD AZHAR ZAINURI",
+                "CONTACT": "Tel : 05-4597 210,Hp :  019-555 5442",
+                "POSITION": "CSO",
+                "EMAIL": "azharzainuri@tsssb.com",
+                "FAX_NO": "05-459 6633",
+                "PHONE_NUMB": 504597210,
+                "X": 392104.055,
+                "Y": 408439.982,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.52203832,
+                    3.69075888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KELANTAN",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Kota Bharu",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Doktor,15000 Kota Bharu,Kelantan,",
+                "CUS_EXP_M": "AIZAM ABDULLAH",
+                "CONTACT": "Tel : 09-741 5952,Hp : 012-364 3755",
+                "POSITION": "CSE",
+                "EMAIL": "aizam@tsssb.com",
+                "FAX_NO": "09-744 9403",
+                "PHONE_NUMB": 907415952,
+                "X": 472600.07820758,
+                "Y": 676330.96520432,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2425335,
+                    6.11515602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KELANTAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pasir Mas",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "606 Jln Masjid Lama,17000 Pasir Mas,Kelantan,",
+                "CUS_EXP_M": "SITI FARIDAH GHANI",
+                "CONTACT": "Tel : 09-790 9191,Hp : 013-980 7800",
+                "POSITION": "CSO",
+                "EMAIL": "sitifaridah@tm.com.my",
+                "FAX_NO": "09-790 0427",
+                "PHONE_NUMB": 907909191,
+                "X": 460305.70166398,
+                "Y": 663529.28300444,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.13166826,
+                    5.99922108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KELANTAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Tanah Merah",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "4088 Jln Ismail Petra,17500 Tanah Merah,Kelantan,",
+                "CUS_EXP_M": "RAMLI BIN ISMAIL",
+                "CONTACT": "Tel: 09-955 6609,Hp : 013- 3337110",
+                "POSITION": "CSO",
+                "EMAIL": "ramlii@tm.com.my",
+                "FAX_NO": "09-955 7431",
+                "PHONE_NUMB": 909556609,
+                "X": 461341.4,
+                "Y": 642597.65,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.14134992,
+                    5.80996008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KELANTAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Krai",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot 1522 ,Jln Tengku Zainal Abidin,18000 Kuala Krai,Kelantan",
+                "CUS_EXP_M": "MOHD SHAHRIL MD SAIDAN",
+                "CONTACT": "Tel : 09-9666191,Hp: 013-945 4440",
+                "POSITION": "CSO",
+                "EMAIL": "mohdshahril@tsssb.com",
+                "FAX_NO": "09-966 3228",
+                "PHONE_NUMB": 909666191,
+                "X": 467741.57680821,
+                "Y": 611894.60999436,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.1996089,
+                    5.53241232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "KELANTAN",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pasir Puteh",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "258B, Jln. Sekolah Laki-laki,16800 Pasir Puteh,Kelantan,",
+                "CUS_EXP_M": "RAHANI MOHAMAD",
+                "CONTACT": "Tel : 09-741 5967,Hp : 013-935 5059",
+                "POSITION": "CSO",
+                "EMAIL": "rahani.mohamad@tm.com.my",
+                "FAX_NO": "09-786 7313",
+                "PHONE_NUMB": 907415967,
+                "X": 472600.07820758,
+                "Y": 676330.96520432,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.2425335,
+                    6.11515602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "TERENGGANU",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Kuala Terengganu",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tingkat 1, Bangunan TM,Jln. Sultan Ismail,20200 K. Terengganu,Terengganu",
+                "CUS_EXP_M": "AHMAD SYAKIR YUSOFF",
+                "CONTACT": "Tel : 09-620 2315,Hp : 013-9233661",
+                "POSITION": "CSE",
+                "EMAIL": "syakir1@tsssb.com",
+                "FAX_NO": "09-624 5200",
+                "PHONE_NUMB": 906202315,
+                "X": 571406.59642419,
+                "Y": 589469.31083118,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.13517906,
+                    5.33063862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "TERENGGANU",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kemaman",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Masjid, Chukai,24000  Kemaman,Terengganu,",
+                "CUS_EXP_M": "ZUNAINI MAMAT",
+                "CONTACT": "Tel : 09-858 1191,Hp: 013-930 9858",
+                "POSITION": "CSO",
+                "EMAIL": "zunaini@tm.com.my",
+                "FAX_NO": "09-859 2411",
+                "PHONE_NUMB": 908581191,
+                "X": 603813.51351922,
+                "Y": 467839.76520843,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.42776636,
+                    4.23097218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "TERENGGANU",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Dungun",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Nibong,23000 Dungun,Terengganu,",
+                "CUS_EXP_M": "RAHANA ISMAIL",
+                "CONTACT": "Tel : 09-845 5354,Hp : 019-915 4889",
+                "POSITION": "CSO",
+                "EMAIL": "rahana@tsssb.com",
+                "FAX_NO": "09-844 4111",
+                "PHONE_NUMB": 908455354,
+                "X": 602952.5518065,
+                "Y": 527225.07665154,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.41981576,
+                    4.76795808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "TERENGGANU",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Jerteh",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tingkat Bawah, Lot 174,Jalan Tuan Hitam,22000 Jerteh, Terengganu,",
+                "CUS_EXP_M": "FAIROSLIZA MOHAMED FAIZ",
+                "CONTACT": "Tel : 09-697 9191,Hp : 013-936 2234",
+                "POSITION": "CSE",
+                "EMAIL": "fairosliza@tsssb.com",
+                "FAX_NO": "09-697 3291",
+                "PHONE_NUMB": 906979191,
+                "X": 500358.026,
+                "Y": 634433.615,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.49371594,
+                    5.73666228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Kuantan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "G 08 & G 09 Tingkat Bawah,Bangunan Mahkota Square,Jalan Mahkota ,25000 Kuantan, Pahang",
+                "CUS_EXP_M": "ROSWATI ISMAIL",
+                "CONTACT": "Tel : 09-513 4578,Hp : 013-9013006",
+                "POSITION": "CSE",
+                "EMAIL": "roswati@tsssb.com",
+                "FAX_NO": "09-5133505/09-513 9289",
+                "PHONE_NUMB": 905134578,
+                "X": 592706.62084332,
+                "Y": 420888.64522268,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.3279713,
+                    3.80631438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "Sub-outlet",
+                "TMPOINT": "TMpoint UTC Pahang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot 2.2 Tingkat 2,Pusat Transformasi Bandar (UTC),Jalan Stadium 25000 Kuantan,Pahang Darul Makmur",
+                "CUS_EXP_M": "NORAZAM CHE LONG",
+                "CONTACT": "Tel : 09-512 4103 / 019-935 5525",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "norazam@tsssb.com",
+                "FAX_NO": "09-512 4098",
+                "PHONE_NUMB": 905124103,
+                "X": 592303.72155261,
+                "Y": 421690.39108822,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.32433926,
+                    3.81356316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pekan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No. 87 Jalan Sultan Abdullah,26600 Pekan,Pahang,",
+                "CUS_EXP_M": "ZALEHA ABD HALIM",
+                "CONTACT": "Tel : 09-422 8187 / 09-422 8686,Hp : 013-953 5374",
+                "POSITION": "CSO",
+                "EMAIL": "zalehaab@tsssb.com",
+                "FAX_NO": "09-422 8080",
+                "PHONE_NUMB": 904228187,
+                "X": 600027.5081,
+                "Y": 385869.584,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.3940727,
+                    3.48963912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Mentakab",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jalan Tun Razak,28400 Mentakab,Pahang,",
+                "CUS_EXP_M": "SHARIZOL SHA'ARI",
+                "CONTACT": "Tel : 09-270 1110,Hp : 019-958 7887",
+                "POSITION": "CSE",
+                "EMAIL": "sharizol@telekom.com.my",
+                "FAX_NO": "09-277 2191",
+                "PHONE_NUMB": 902701110,
+                "X": 483839.1975248,
+                "Y": 385759.44814321,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.34826046,
+                    3.48743916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Bentong",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "111 Bgn. Persatuan Bola Sepak,,Jln. Ah Peng,28700 Bentong,Pahang",
+                "CUS_EXP_M": "SARIPAH RADZIAH SYED HAMID",
+                "CONTACT": "Tel : 09-222 8123,Hp : 019-947 7057",
+                "POSITION": "CSO",
+                "EMAIL": "saripah.radziah@tm.com.my",
+                "FAX_NO": "09-222 8050",
+                "PHONE_NUMB": 902228123,
+                "X": 435010.488,
+                "Y": 389662.587,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.90868138,
+                    3.52188234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kuala Lipis",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "10, Jln. Bukit Bius,27200 Kuala Lipis,Pahang,",
+                "CUS_EXP_M": "SITI NURBAYA BINTI ABDUL LATIF",
+                "CONTACT": "Tel : 09-312 1022,Hp : 019-997 0027",
+                "POSITION": "CSO",
+                "EMAIL": "nurbaya@tsssb.com",
+                "FAX_NO": "09-312 3191",
+                "PHONE_NUMB": 903121022,
+                "X": 451323.057,
+                "Y": 462828.696,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.05415918,
+                    4.18395366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "PAHANG",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Raub",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Kuala Lipis,27600 Raub,Pahang,",
+                "CUS_EXP_M": "NORKAMARIAH ABU BAKAR",
+                "CONTACT": "Tel : 09-3553191 / 4191,Hp : 013-927 4337",
+                "POSITION": "CSO",
+                "EMAIL": "norkama@tm.com.my",
+                "FAX_NO": "09-355 5191",
+                "PHONE_NUMB": 903553191,
+                "X": 429426.56127518,
+                "Y": 419741.29604858,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.85780384,
+                    3.79381302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Sadong Jaya",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tingkat Bawah, Lot 68 & 69 Block J,Sadong Jaya, Karamunsing,88100 Kota Kinabalu,Sabah       ",
+                "CUS_EXP_M": "JUNIDAH HJ SALLEH",
+                "CONTACT": "Tel : 088-299 372 ,Hp : 011-18087307",
+                "POSITION": "TEAM LEADER",
+                "EMAIL": "junidah@tm.com.my",
+                "FAX_NO": "088-257 979",
+                "PHONE_NUMB": 8800299372,
+                "X": 1608147.1901,
+                "Y": 661102.6211,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.07187194,
+                    5.96885814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Tanjung Aru",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot B3, B3A & B5, Ground Floor, Plaza Tg.Aru,,Jalan Mat Salleh, Tanjung Aru,88100 Kota Kinabalu Sabah,",
+                "CUS_EXP_M": "ARIDAH LINGGAM",
+                "CONTACT": "Tel : 088-254 511 ,Hp : 013-870 9767",
+                "POSITION": "CSO",
+                "EMAIL": "aridah@tm.com.my",
+                "FAX_NO": "088-265 869",
+                "PHONE_NUMB": 8800254511,
+                "X": 1606068.511,
+                "Y": 659193.949,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.05301928,
+                    5.95168434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Tawau",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "TB 307, Blok 35,,Kompleks Fajar,Jalan Perbandaran,91000 Tawau, Sabah",
+                "CUS_EXP_M": "AZIRUL HASAN",
+                "CONTACT": "Tel : 089-700 123,Hp : 019-681 4613",
+                "POSITION": "CSE",
+                "EMAIL": "azirul.hasan@tsssb.com",
+                "FAX_NO": "089-761 600",
+                "PHONE_NUMB": 8900700123,
+                "X": 1811135.974,
+                "Y": 471855.408,
+                "TERM_TYPE": "CABINET"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.8923608,
+                    4.2463026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Lahad Datu",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tingkat Bawah, MDLD 3307,Fajar Komplek,Jalan Segama,91100 Lahad Datu,Sabah",
+                "CUS_EXP_M": "ABD MUNAP BIN ALIH SABRE",
+                "CONTACT": "Tel : 089-884 607,Hp : 014-357 7866",
+                "POSITION": "CSE",
+                "EMAIL": "munap.alihsabre@tsssb.com",
+                "FAX_NO": "089-888 500",
+                "PHONE_NUMB": 8900884607,
+                "X": 1858552.657,
+                "Y": 558818.777,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.32584076,
+                    5.02920036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Sandakan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Tingkat Bawah, Lot 6 & 7,Bandar Maju, Sandakan Commercial Center,Batu 1 1/2, Jalan Utara,90000 Sandakan",
+                "CUS_EXP_M": "IMRAN SALUDIN @ EMRAN ALI",
+                "CONTACT": "Tel : 089-209 290,Hp : 013-880 4488",
+                "POSITION": "CSE",
+                "EMAIL": "imrans@tm.com.my",
+                "FAX_NO": "089-216 000",
+                "PHONE_NUMB": 8900209290,
+                "X": 1833595.7252,
+                "Y": 650371.8701,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.10745576,
+                    5.85898074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Keningau",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Commercial Centre,Jalan Arusap, Off Jln Masak,Blok B7, Lot 13 & 14,89007 Keningau",
+                "CUS_EXP_M": "EILEENA @ EILEEN FELEX",
+                "CONTACT": "Tel : 087-339 555,Hp : 016-509 2747",
+                "POSITION": "CSE",
+                "EMAIL": "eileena@tsssb.com",
+                "FAX_NO": "087-335 000",
+                "PHONE_NUMB": 8700339555,
+                "X": 1617456.119,
+                "Y": 591085.082,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.1529461,
+                    5.33526606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Beaufort",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Choong Street,P.O. Box 269,89807 Beaufort,Sabah",
+                "CUS_EXP_M": "NORSINAH TIASIN",
+                "CONTACT": "Tel : 087-222 311,Hp : 013-858 5556",
+                "POSITION": "CSO",
+                "EMAIL": "norsinah@tm.com.my",
+                "FAX_NO": "087-211 411",
+                "PHONE_NUMB": 8700222311,
+                "X": 1572258.597,
+                "Y": 591969.109,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.74516762,
+                    5.34508884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kudat",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Lot no.3, Jaya Shopping Center,Jalan Datu, ,89050 Kudat,Sabah",
+                "CUS_EXP_M": "NELSON JOSEPH MUHAMAT",
+                "CONTACT": "Tel : 088-612 744,Hp : 013-553 6554",
+                "POSITION": "CSO",
+                "EMAIL": "nelson@tsssb.com",
+                "FAX_NO": "088-612 690",
+                "PHONE_NUMB": 8800612744,
+                "X": 1693542.3961,
+                "Y": 762410.4161,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.84848698,
+                    6.88093488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SABAH",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Labuan",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Bangunan TM, Jalan Dewan,87000 Wilayah Persekutuan Labuan,,",
+                "CUS_EXP_M": "NORHALIFAH YUSOFF",
+                "CONTACT": "Tel : 087-427 553,Hp : 019-802 6644",
+                "POSITION": "CSE",
+                "EMAIL": "norhaliffah@tm.com.my",
+                "FAX_NO": "087-427 550",
+                "PHONE_NUMB": 8700427553,
+                "X": 1516924.508,
+                "Y": 584211.591,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.24567068,
+                    5.2768413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "Flagship",
+                "TMPOINT": "TMpoint Batu Lintang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Batu Lintang,93200 Kuching,Sarawak,",
+                "CUS_EXP_M": "SHARIFAH RAMIAH BT WAN MOHBAR",
+                "CONTACT": "Tel : 082-252 996,HP : 013-818 8299",
+                "POSITION": "CSE",
+                "EMAIL": "shramiah@tsssb.com",
+                "FAX_NO": "082-239 257",
+                "PHONE_NUMB": 8200252996,
+                "X": 972984.532,
+                "Y": 169772.805,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.34502956,
+                    1.53496836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Padang Merdeka",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Ground Floor, Bangunan Yayasan Sarawak,Lot 2, Section 24 Jalan Barrack/Masjid,93000 Kuching,Sarawak",
+                "CUS_EXP_M": "NORLIA RAZALI",
+                "CONTACT": "Tel : 082-246 205 / 082-244 830,Hp : 013-802 4744",
+                "POSITION": "CSO",
+                "EMAIL": "rnorlia@tm.com.my",
+                "FAX_NO": "082-418 500",
+                "PHONE_NUMB": 8200246205,
+                "X": 972765.759,
+                "Y": 172284.144,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.34306288,
+                    1.55768094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Pending",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Gedong,93450 Kuching,Sarawak,",
+                "CUS_EXP_M": "CONNIE PAULA KHATAN",
+                "CONTACT": "Tel : 082-336 777,Hp : 011-18007868",
+                "POSITION": "CSO",
+                "EMAIL": "conniepaula@tm.com.my",
+                "FAX_NO": "082-337797",
+                "PHONE_NUMB": 8200336777,
+                "X": 977297.513,
+                "Y": 172441.662,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.38378914,
+                    1.55910672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sri Aman",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jalan Club,95000 Sri Aman,Sarawak,",
+                "CUS_EXP_M": "DICKIE ANAK ISAAC",
+                "CONTACT": "Tel : 083-321 768,Hp : 019-816 4911",
+                "POSITION": "CSO",
+                "EMAIL": "dickie@tsssb.com",
+                "FAX_NO": "083-321 490",
+                "PHONE_NUMB": 8300321768,
+                "X": 1097188.176,
+                "Y": 136946.709,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.46118274,
+                    1.23788682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Miri",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Pos,98000 Miri,Sarawak,",
+                "CUS_EXP_M": "RAFIZUL BIN ISMAIL",
+                "CONTACT": "Tel : 085-424 666,Hp : 013-827 4725",
+                "POSITION": "CSE",
+                "EMAIL": "rafizul@tsssb.com",
+                "FAX_NO": "085-422 400",
+                "PHONE_NUMB": 8500424666,
+                "X": 1378024.9901,
+                "Y": 486848.4101,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.99105862,
+                    4.39977528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Limbang",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln. Kubu,98700 Limbang,Sarawak,",
+                "CUS_EXP_M": "HAMBIDAH @ HAMIDAH MASTAPA",
+                "CONTACT": "Tel : 085-211 202,Hp: 013-8370837",
+                "POSITION": "CSO",
+                "EMAIL": "hambidah@tm.com.my",
+                "FAX_NO": "085-212 798",
+                "PHONE_NUMB": 8500211202,
+                "X": 1490767.23,
+                "Y": 525967.2121,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.00803198,
+                    4.75089552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Lawas",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": ",Jalan Punang,98850 Lawas, Sarawak,",
+                "CUS_EXP_M": "LOH SIEW TING",
+                "CONTACT": "Tel : 085-285 667,Hp : 019-824 3588",
+                "POSITION": "CSO",
+                "EMAIL": "siewting@tm.com.my",
+                "FAX_NO": "085-285 399",
+                "PHONE_NUMB": 8500285667,
+                "X": 1534956.11,
+                "Y": 538332.159,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.4068056,
+                    4.86133704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Bintulu",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "No 7, Medan Sentral Commercial Centre,Jalan Tanjung Kidurong,9700 Bintulu,Sarawak",
+                "CUS_EXP_M": "FADLY ANAK GIBSON",
+                "CONTACT": "Tel : 086-333288,HP : 01118033081 / 019-8565922",
+                "POSITION": "CSE",
+                "EMAIL": "fadly@tsssb.com",
+                "FAX_NO": "086-333 222",
+                "PHONE_NUMB": 8600333288,
+                "X": 1274642.6877,
+                "Y": 353836.4686,
+                "TERM_TYPE": "PROPERTY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.0582844,
+                    3.19836384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P2",
+                "TMPOINT": "TMpoint Sibu",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Persiaran Brooke,96000 Sibu,Sarawak,",
+                "CUS_EXP_M": "LOUIS JILL JAYAN",
+                "CONTACT": "Tel : 084-211 841,Hp :  013-808 8460",
+                "POSITION": "CSE",
+                "EMAIL": "louis.jayan@tm.com.my",
+                "FAX_NO": "084-314 708",
+                "PHONE_NUMB": 8400211841,
+                "X": 1139279.112,
+                "Y": 248727.772,
+                "TERM_TYPE": "DP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.83996322,
+                    2.2487661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Sarikei",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln Berek,96100 Sarikei,Sarawak,",
+                "CUS_EXP_M": "DOROTHY DOLLY ANAK BELAYONG",
+                "CONTACT": "Tel : 084-651 390,Hp : 011-1800 6602 / 019-8758903",
+                "POSITION": "CSO",
+                "EMAIL": "dorothy@tsssb.com",
+                "FAX_NO": "084-653 588",
+                "PHONE_NUMB": 8400651390,
+                "X": 1104093.183,
+                "Y": 235777.779,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.5235702,
+                    2.1317751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PTT": "SARAWAK",
+                "CATEGORY": "P1",
+                "TMPOINT": "TMpoint Kapit",
+                "Sell": "Y",
+                "Reload": "Y",
+                "info": "Y",
+                "ADD": "Jln Kapit By Pass,96800 Kapit,Sarawak,",
+                "CUS_EXP_M": "ROSE BETTY WILIAM LAJUN",
+                "CONTACT": "Tel : 084-796 991,019-816 4911",
+                "POSITION": "CSO",
+                "EMAIL": "rosebetty@tsssb.com",
+                "FAX_NO": "084-796 515",
+                "PHONE_NUMB": 8400796991,
+                "X": 1261768.634,
+                "Y": 223130.1451,
+                "TERM_TYPE": "LASTPOINT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.9410234,
+                    2.0163033
+                ]
+            }
+        }
+    ]
+}
